@@ -1,5 +1,5 @@
 <template>
-    <header>
+    <header class="task-header">
         <h1>Task Scheduler</h1>
     </header>
 </template>
@@ -11,7 +11,7 @@
 </script>
 
 <style scoped>
-    header{
+    .task-header{
         text-align:center;
     }
 </style>
